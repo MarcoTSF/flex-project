@@ -16,13 +16,13 @@ O objetivo deste projeto é aplicar os conceitos de Flexbox para criar um layout
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-flexbox-dio
+git clone https://github.com/MarcoTSF/flex-project
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd projeto-flexbox-dio
+cd flex-project
 ```
 
 3. Abra o arquivo `index.html` no seu navegador para visualizar o projeto.
